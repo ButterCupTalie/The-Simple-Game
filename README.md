@@ -1,5 +1,5 @@
 # The-Simple-Game
-The simple game created with the pygame with one player, 3 enemies and 1 prize
+The simple game created with the Python pygame with one player, 3 enemies and 1 prize
 
 The player can move up and down with the arrow keys and must avoid colliding with the ‘enemy’ to win. 
 The game include:
